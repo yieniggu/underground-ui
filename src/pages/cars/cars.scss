@@ -1,0 +1,15 @@
+.cars-container {
+  .header {
+    background-image: url(../../assets/images/bg_cars_header.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .effect{
+    z-index: -1;
+  }
+
+  .react-multi-carousel-list{
+    position: unset;
+  }
+}
